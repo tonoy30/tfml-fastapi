@@ -1,0 +1,12 @@
+{
+    "python.pythonPath": "C:\\Users\\tonoy\\AppData\\Local\\Programs\\Python\\Python37\\python.exe",
+    "explorer.compactFolders": false,
+    "cSpell.words": [
+        "asarray",
+        "keras",
+        "numpy",
+        "pydantic",
+        "starlette",
+        "uvicorn"
+    ]
+}
